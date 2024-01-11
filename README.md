@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi there 👋👩‍💻, my name is Janet
+I'm a graduate with a bachelor's degree on Computer Science and a minor in Mathematics. Develop a passion for iOS development and creating apps.
 
-<!--
-**Janet-V/Janet-V** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
+* HTML
+* Java
+* Python
+* Swift
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
