@@ -3,13 +3,21 @@ I'm a graduate with a bachelor's degree on Computer Science and a minor in Mathe
 
 
 ## Projects
-These projects were made for self-learning and under the data analyst bootcamp. It showcases my skils and knowledge of data analysis.
+These projects were made for self-learning and under the data analyst bootcamp. It showcases my skils and knowledge of data analysis. It also showcases my knowledge of other languages and iOS skills.
+
+#### Data Analysis Projects
 
 * Bike Sales Project
 * Airbnb Project
 
-
-
+#### Other Projects
+* Scraping Data From Real Website (Python)
+* BMI-Calculator (Python)
+* Netflix Clone (iOS app project)
+* XsAndOs (iOS app project)
+* CardWorkout (iOS app project)
+* WarCardName (iOS app project)
+* FlagMemorizationGame (iOS app project)
 
 ## Skills
 * HTML
