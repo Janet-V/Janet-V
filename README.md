@@ -9,9 +9,9 @@ These projects were made for self-learning and under the data analyst bootcamp. 
 
 * Bike Sales Project
 * Airbnb Project
+* Scraping Data From Real Website (Python)
 
 #### Other Projects
-* Scraping Data From Real Website (Python)
 * BMI-Calculator (Python)
 * Netflix Clone (iOS app project)
 * XsAndOs (iOS app project)
