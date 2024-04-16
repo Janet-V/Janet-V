@@ -10,6 +10,7 @@ These projects were made for self-learning and under the data analyst bootcamp. 
 * Bike Sales Project
 * Airbnb Project
 * Scraping Data From Real Website (Python)
+* SQL Project Data Job Analysis From 2023
 
 #### Other Projects
 * BMI-Calculator (Python)
