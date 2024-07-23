@@ -3,7 +3,7 @@ I'm a graduate with a bachelor's degree on Computer Science and a minor in Mathe
 
 
 ## Projects
-These projects were made for self-learning and under the data analyst bootcamp. It showcases my skils and knowledge of data analysis. It also showcases my knowledge of other languages and iOS skills.
+These projects were made for self-learning and under the data analyst courses that I took. It showcases my skils and knowledge of data analysis. It also showcases my knowledge of other languages and iOS skills.
 
 #### Data Analysis Projects
 
